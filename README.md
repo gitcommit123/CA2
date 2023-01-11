@@ -4,7 +4,7 @@
 
 This is the code to my Continuous Assignment 2 in Semester 1 of the MSc in Data Analytics at CCT, September 2022 stream.
 
-It includes some Jupyter notebooks at different points of progress along. 
+It includes some Jupyter notebooks at different points of progress. 
 - the first Jupyter notebook was uploaded in December with progress in the initial data gathering stage. Most of this data was sourced from the FAO website with some data preparations and visualisations to take an initial look at the data;
 - due to a laptop issue (with a recently acquired laptop becoming faulty and failing twice) I spent more time focusing on resolving the technical issues with the laptop than working on the assignment and hence no commits over that period. I was then focused on getting the assignment back on track which took longer than expected. Hence the gap between the first and second commit;
 - the final upload/commit will be done prior to issue of the assignment due on 13th January 2023; and
